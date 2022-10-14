@@ -1,6 +1,7 @@
 {
   "APPLICATION_TYPE": "Charla",
   "S_PAGE_TITLE": "Charla",
+  "S_CLOSE": "Cerca",
   "S_PROVIDER": "<span class='provider-text'>Provided by <span class='provider-five'>Five</span><span class='provider-nine'>9</span></span>",
   "S_NO_NAME": "Me",
   "S_INITIALIZATION_PAGE": {
@@ -18,6 +19,7 @@
   },
   "S_CONVERSATION_PAGE": {
     "S_SEND_BUTTON": "Enviar",
+    "S_MAIN_MENU_TITLE": "Menú Principal",
     "S_EXIT_CONFERENCE": "Agente {0} salió de la conferencia.",
     "S_TRANSFER_GROUP": "Usted ha sido transferido al grupo {0}.",
     "S_AGENT_END": "El agente finalizó el chat.",
@@ -25,14 +27,15 @@
     "S_THANK_YOU_END": "Gracias por tu tiempo.",
     "S_START_NEW": "Iniciar Nuevo chat",
     "S_TYPING": "Mecanografía...",
+    "S_CLOSE_WINDOW":"Cerrar Ventana",
     "S_VIDEO_SESSION_REQUEST_RECEIVED": "Solicitud de sesión de video y / o audio recibida",
- 
     "S_VIDEO_SESSION_CANCELED": "Se canceló la sesión de vídeo y / o audio",
     "S_VIDEO_SESSION_REJECTED": " Se rechazó la sesión de Video y / o audio",
     "S_VIDEO_SESSION_ACCEPTED": "Se aceptan sesiones de video y / o audio",
     "S_VIDEO_ACTIVATED": "Video y / o audio activado",
     "S_VIDEO_TERMINATED": "Video and/or audio terminado",
-    "S_INPUT_MESSAGE_PLACEHOLDER": "Escriba aqui..."
+    "S_INPUT_MESSAGE_PLACEHOLDER": "Escriba aqui...",
+    "S_REQUEST_TRANSCRIPT": "Enviar Transcripción De Correo Electrónico...",
   },
   "S_ERROR_PAGE": {
     "S_START_OVER": "Comenzar de nuevo",	
@@ -60,6 +63,7 @@
   },
   "S_END_CHAT": "Chat finalizado",
   "S_CANCEL": "Cancelar",
+  "S_SAVE": "Guardar",
   "S_VALIDATE": {
     "S_REQUIRED": "Campo requerido",
     "S_INVALID_EMAIL": "Dirección de correo electrónico no válida" 
@@ -68,5 +72,11 @@
     "S_ACCEPT": "Aceptar",
     "S_REJECT": "Rechazar",
     "S_MESSAGE": "Sesión de video y / o audio solicitada"
+  },
+    "S_REQUEST_TRANSCRIPT": {
+    "S_ERROR": "Ha ocurrido un error. Por favor intente de nuevo.",
+    "S_SENT": "La transcripción del chat se enviará a <b></b> una vez finalizada la interacción.",
+    "S_REQUEST": "Introduzca una dirección de correo electrónico:",
+    "S_ENTER_EMAIL": "Dirección de correo electrónico..."
   }
 }
