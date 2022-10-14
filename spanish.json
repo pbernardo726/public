@@ -26,6 +26,7 @@
     "S_CUSTOMER_END": "El cliente terminó el chat.",
     "S_THANK_YOU_END": "Gracias por tu tiempo.",
     "S_START_NEW": "Iniciar Nuevo chat",
+    "S_THANK_YOU_OR":"o",
     "S_TYPING": "Mecanografía...",
     "S_CLOSE_WINDOW":"Cerrar Ventana",
     "S_VIDEO_SESSION_REQUEST_RECEIVED": "Solicitud de sesión de video y / o audio recibida",
@@ -72,6 +73,12 @@
     "S_ACCEPT": "Aceptar",
     "S_REJECT": "Rechazar",
     "S_MESSAGE": "Sesión de video y / o audio solicitada"
+  },
+    "S_CALLBACK_REQUEST": {
+    "S_REQUEST": "Solicitud de devolución de llamada",
+    "S_NUMBER": "Número de teléfono",
+    "S_REQUESTED": "Se ha solicitado devolución de llamada",
+    "S_CONFIRMATION": "La llamaremos lo antes posible al"
   },
     "S_REQUEST_TRANSCRIPT": {
     "S_ERROR": "Ha ocurrido un error. Por favor intente de nuevo.",
